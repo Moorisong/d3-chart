@@ -9,10 +9,10 @@
       "values": [{"toolTip":"Tooltip"}],
       "accValue": 100,
       "accValues": {
-          "sys": 30,
-          "user": 40,
-          "nice": 20,
-          "wait": 10
+          "label_01": 30,
+          "label_02: 40,
+          "label_03: 20,
+          "label_04: 10
     },
   }
 
